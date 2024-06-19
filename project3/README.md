@@ -33,49 +33,49 @@ Question: Write a C++ program to check if a number is prime using a while loop. 
 For solutions <a href="/project3/solutions/p5.cpp">click here</a>
 
 ----
-## Problem 9: Fibonacci Sequence
+## Problem 6: Fibonacci Sequence
 
 Question: Write a C++ program to print the first n terms of the Fibonacci sequence using a while loop. Read the value of n from the user.
 
 For solutions <a href="/project3/solutions/p6.cpp">click here</a>
 
 ----
-## Problem 10: Reverse a Number
+## Problem 7: Reverse a Number
 
 Question: Write a C++ program to reverse a number using a do-while loop. Read the number from the user.
 
 For solutions <a href="/project3/solutions/p7.cpp">click here</a>
 
 ----
-## Problem 1: Sum of Even Numbers
+## Problem 8: Sum of Even Numbers
 
 Question: Write a C++ program to find the sum of all even numbers between 1 and 100 using a for loop.
 
 For solutions <a href="/project3/solutions/p8.cpp">click here</a>
 
 ----
-## Problem 3: Skip Multiples of 3
+## Problem 9: Skip Multiples of 3
 
 Question: Write a C++ program to print numbers from 1 to 20, skipping multiples of 3 using a for loop and continue statement.
 
 For solutions <a href="/project3/solutions/p9.cpp">click here</a>
 
 ----
-## Problem 8: Break on Negative Input
+## Problem 10: Break on Negative Input
 
 Question: Write a C++ program that keeps reading numbers from the user until a negative number is entered using a do-while loop and break statement.
 
 For solutions <a href="/project3/solutions/p10.cpp">click here</a>
 
 ----
-## Problem 9: Count Positive Numbers
+## Problem 11: Count Positive Numbers
 
 Question: Write a C++ program to count the number of positive numbers entered by the user. Stop reading input when a negative number is entered, using a for loop and break statement.
 
 For solutions <a href="/project3/solutions/p11.cpp">click here</a>
 
 ----
-## Problem 10: Sum Until Zero
+## Problem 12: Sum Until Zero
 
 Question: Write a C++ program to calculate the sum of numbers entered by the user until zero is entered, using a for loop and continue statement.
 
@@ -83,7 +83,7 @@ For solutions <a href="/project3/solutions/p12.cpp">click here</a>
 
 ----
 
-## Problem 1: Right-Angled Triangle
+## Problem 13: Right-Angled Triangle
 
 Question: Write a C++ program to generate a right-angled triangle pattern of stars for a given number of rows.
 
@@ -100,7 +100,7 @@ For solutions <a href="/project3/solutions/p13.cpp">click here</a>
 ----
 
 
-## Problem 2: Inverted Right-Angled Triangle
+## Problem 14: Inverted Right-Angled Triangle
 
 Question: Write a C++ program to generate an inverted right-angled triangle pattern of stars for a given number of rows.
 
@@ -118,7 +118,7 @@ For solutions <a href="/project3/solutions/p14.cpp">click here</a>
 
 ----
 
-## Problem 3: Pyramid Pattern
+## Problem 15: Pyramid Pattern
 
 Question: Write a C++ program to generate a pyramid pattern of stars for a given number of rows.
 
@@ -136,7 +136,7 @@ For solutions <a href="/project3/solutions/p15.cpp">click here</a>
 
 ----
 
-## Problem 5: Hollow Square Pattern
+## Problem 16: Hollow Square Pattern
 
 Question: Write a C++ program to generate a hollow square pattern of stars for a given side length.
 
@@ -155,7 +155,7 @@ For solutions <a href="/project3/solutions/p16.cpp">click here</a>
 ----
 
 
-## Problem 8: Floyd's Triangle
+## Problem 17: Floyd's Triangle
 
 Question: Write a C++ program to generate Floyd's triangle for a given number of rows.
 
@@ -173,7 +173,7 @@ For solutions <a href="/project3/solutions/p17.cpp">click here</a>
 
 ----
 
-## Problem 9: Pascal's Triangle
+## Problem 18: Pascal's Triangle
 
 Question: Write a C++ program to generate Pascal's triangle for a given number of rows.
 
