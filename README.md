@@ -30,9 +30,9 @@ Whether you're a beginner looking to get started or an experienced programmer ai
     * Input and Arithmatic operators <a href="/project1">here</a>
     * Condition Operators <a href="/project2/">here</a>
     * Loop Operators <a href="/project3/">here</a>
-    * Array <a href="/project4">comming soon</a>
-    * Functions <a href="/project5">comming soon</a>
-    * Structures <a href="/project6">comming soon</a>
+    * Array <a href="/project4">here</a>
+    * Functions <a href="/project5">here</a>
+    * Structures <a href="/project6">here</a>
 * Intermediate
     * Pointers <a href="/">comming soon</a>
     * Classes and Objects <a href="/">comming soon</a>
