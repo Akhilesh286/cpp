@@ -34,9 +34,9 @@ Whether you're a beginner looking to get started or an experienced programmer ai
     * Functions <a href="/project5">here</a>
     * Structures <a href="/project6">here</a>
 * Intermediate
-    * Pointers <a href="/">comming soon</a>
-    * Classes and Objects <a href="/">comming soon</a>
-    * Constructors <a href="/">comming soon</a>
+    * Pointers <a href="/project7">here</a>
+    * Classes and Objects <a href="/project8">here</a>
+    * Constructors <a href="/project9">comming soon</a>
     * Encapsulation <a href="/">comming soon</a>
     * Inheritance <a href="/">comming soon</a>
     * Polymorphism <a href="/">comming soon</a>
