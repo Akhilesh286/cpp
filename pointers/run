@@ -1,0 +1,41 @@
+#!/usr/bin/python3
+
+import os
+from shutil import which
+import sys 
+
+args = sys.argv
+
+if len(args) >= 3:
+    file = args[2]
+    name = str(file.split(".")[0])
+    
+    if args[1] == "-f":
+        with open (file,'w') as f:
+            f.write("""#include <iostream>
+#include <string>
+using namespace std;
+
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+""")
+    
+    elif args[1] == "-d":
+        os.remove(file)
+        os.remove(f"codes/{name}")
+    
+    elif args[1] == "-r":
+        os.system(f"./codes/{name}")
+    
+    elif args[1] == "-c":
+        os.system(f"g++ -o codes/{name} {file}")
+    
+    elif args[1] == "-cr":
+        os.system(f"g++ -o codes/{name} {file}")
+        os.system(f"./codes/{name}")
+    
+    else:
+        print(f"unknown command {args[1]} \n -f:create file\n -c:compile code\n -r:run code\n -cr:compile and run\n -d:delete file")
