@@ -1,43 +1,34 @@
 #include <iostream>
 using namespace std;
 
-class Shape {
+class Book {
+private:
+    string title;
+    string author;
+
 public:
-    virtual double area() {
-        return 0;
+    void setTitle(string t) {
+        title = t;
     }
-};
 
-class Circle : public Shape {
-    double radius;
-
-public:
-    Circle(double r) : radius(r) {}
-
-    double area() override {
-        return 3.14 * radius * radius;
+    void setAuthor(string a) {
+        author = a;
     }
-};
 
-class Square : public Shape {
-    double side;
+    string getTitle() {
+        return title;
+    }
 
-public:
-    Square(double s) : side(s) {}
-
-    double area() override {
-        return side * side;
+    string getAuthor() {
+        return author;
     }
 };
 
 int main() {
-    Shape *s1 = new Circle(5);
-    Shape *s2 = new Square(4);
-
-    cout << "Circle Area: " << s1->area() << endl;
-    cout << "Square Area: " << s2->area() << endl;
-
-    delete s1;
-    delete s2;
+    Book book;
+    book.setTitle("The Great Gatsby");
+    book.setAuthor("F. Scott Fitzgerald");
+    
+    cout << "Title: " << book.getTitle() << ", Author: " << book.getAuthor() << endl;
     return 0;
 }

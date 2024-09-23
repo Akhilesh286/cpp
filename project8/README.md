@@ -61,19 +61,19 @@ For solutions [click here](/project8/solutions/p7.cpp).
 
 ---
 
-## Problem 8: Polymorphism using Virtual Functions
+## Problem 8: Class with Getters and Setters
 
 **Question:**  
-Create a base class `Shape` with a virtual method `area()`. Derive classes `Circle` and `Square` from `Shape`, and implement the `area()` method for each shape. Use a pointer to call the correct `area()` method for both classes.
+Create a class `Book` that represents a book with private attributes for `title` and `author`. Implement public methods to set and get these attributes using setters and getters. Instantiate a `Book` object, set its title and author, and display the details using the getter methods.
 
 For solutions [click here](/project8/solutions/p8.cpp).
 
 ---
 
-## Problem 9: Operator Overloading
+## Problem 9: Class with Composition
 
 **Question:**  
-Write a class `Complex` to represent complex numbers. Overload the `+` operator to add two complex numbers and return the result. Test it by adding two `Complex` objects.
+Define a class `Address` that contains attributes for `street` and `city`. Then, create a class `Person` that has a name and an `Address` object as attributes. Implement a method in the `Person` class to display the person's name and address. Create an instance of `Person`, set its name and address, and print the information.
 
 For solutions [click here](/project8/solutions/p9.cpp).
 

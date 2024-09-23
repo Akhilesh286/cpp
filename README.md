@@ -33,17 +33,18 @@ Whether you're a beginner looking to get started or an experienced programmer ai
     * Array <a href="/project4">here</a>
     * Functions <a href="/project5">here</a>
     * Structures <a href="/project6">here</a>
-* Intermediate
     * Pointers <a href="/project7">here</a>
     * Classes and Objects <a href="/project8">here</a>
-    * Constructors <a href="/project9">comming soon</a>
-    * Encapsulation <a href="/">comming soon</a>
-    * Inheritance <a href="/">comming soon</a>
-    * Polymorphism <a href="/">comming soon</a>
-* Advance
-    * Exceptions Handling <a href="/">comming soon</a>
-    * File Handling <a href="/">comming soon</a>
-    * Type Conversion <a href="/">comming soon</a>
-    * Type Conversion Operators <a href="/">comming soon</a>
-    * Lambda <a href="/">comming soon</a>
-    * Namespaces <a href="/">comming soon</a>
+* Intermediate
+    * Inheritance and Polymorphism <a href="/">comming soon</a>
+    * Operator Overloading <a href="/">comming soon</a>
+    * Basic File Handling <a href="/">comming soon</a>
+    * Exception Handling <a href="/">comming soon</a>
+    * Templates <a href="/">comming soon</a>
+    * Standard Template Library (STL) <a href="/">comming soon</a>
+* Advanced Topics
+    * Advanced OOP Concepts <a href="/">coming soon</a>
+    * Advanced STL and Algorithms <a href="/">coming soon</a>
+    * Memory Management <a href="/">coming soon</a>
+    * Multithreading <a href="/">coming soon</a>
+    * Design Patterns <a href="/">coming soon</a>
