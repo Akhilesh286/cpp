@@ -85,6 +85,8 @@ This section continues with **Access Modifiers in Inheritance** and **Constructo
 
 **Goal**: Understand how public, protected, and private inheritance affect access to base class members in derived classes.
 
+For solutions [click here](/solutions/2/p4.cpp).
+
 ---
 
 ### Problem 5: Constructor and Destructor Invocation - Animal, Dog, and Cat
@@ -94,6 +96,8 @@ This section continues with **Access Modifiers in Inheritance** and **Constructo
 - Observe the order of constructor and destructor calls when creating and deleting objects of `Dog` and `Cat`.
 
 **Goal**: Learn the order in which constructors and destructors are called in an inheritance hierarchy.
+
+For solutions [click here](/solutions/2/p5.cpp).
 
 ---
 
@@ -105,6 +109,8 @@ This section continues with **Access Modifiers in Inheritance** and **Constructo
 
 **Goal**: Understand the implications of protected inheritance on accessing members in derived classes.
 
+For solutions [click here](/solutions/2/p6.cpp).
+
 ---
 
 ### Problem 7: Destructor in Base and Derived Classes - Device, Smartphone, and Tablet
@@ -114,6 +120,8 @@ This section continues with **Access Modifiers in Inheritance** and **Constructo
 - Observe the order in which destructors are called when deleting objects of `Smartphone` and `Tablet`.
 
 **Goal**: Learn how destructors are invoked in an inheritance chain, particularly with virtual destructors.
+
+For solutions [click here](/solutions/2/p7.cpp).
 
 ---
 
@@ -148,6 +156,8 @@ This section covers **Virtual Functions, Pure Virtual Functions, and Abstract Cl
 
 **Goal**: Understand how virtual functions enable dynamic method binding at runtime.
 
+For solutions [click here](/solutions/3/p8.cpp).
+
 ---
 
 ### Problem 9: Abstract Class - Animal, Dog, and Cat
@@ -157,6 +167,8 @@ This section covers **Virtual Functions, Pure Virtual Functions, and Abstract Cl
 - Write a program that creates objects of `Dog` and `Cat` and calls their `sound()` methods.
 
 **Goal**: Learn how abstract classes and pure virtual functions are used to enforce derived class behavior.
+
+For solutions [click here](/solutions/3/p9.cpp).
 
 ---
 
@@ -168,6 +180,8 @@ This section covers **Virtual Functions, Pure Virtual Functions, and Abstract Cl
 
 **Goal**: Understand the importance of virtual destructors in polymorphism.
 
+For solutions [click here](/solutions/3/p10.cpp).
+
 ---
 
 ### Problem 11: Interface Using Abstract Class - PaymentSystem
@@ -177,6 +191,8 @@ This section covers **Virtual Functions, Pure Virtual Functions, and Abstract Cl
 - Demonstrate how polymorphism allows different payment methods to be processed using the same interface.
 
 **Goal**: Learn how abstract classes can simulate interfaces in C++.
+
+For solutions [click here](/solutions/3/p11.cpp).
 
 ---
 
@@ -210,6 +226,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 
 **Goal**: Learn how constructors in the base and derived classes are invoked.
 
+For solutions [click here](/solutions/4/p12.cpp).
+
 ---
 
 ### Problem 13: Destructor Invocation in Base and Derived Classes - Appliance, Refrigerator, and Microwave
@@ -219,6 +237,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 - Observe the order of destructor calls when deleting objects of `Refrigerator` and `Microwave`.
 
 **Goal**: Learn how destructors in the base and derived classes are invoked.
+
+For solutions [click here](/solutions/4/p13.cpp).
 
 ---
 
@@ -230,6 +250,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 
 **Goal**: Understand how constructors are invoked in multiple inheritance scenarios.
 
+For solutions [click here](/solutions/4/p14.cpp).
+
 ---
 
 ### Problem 15: Destructor Invocation in Virtual Inheritance - Gadget, Phone, and SmartPhone
@@ -239,6 +261,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 - Observe the order of destructor calls when deleting objects of `SmartPhone`.
 
 **Goal**: Understand the behavior of destructors in a virtual inheritance hierarchy.
+
+For solutions [click here](/solutions/4/p15.cpp).
 
 ---
 
@@ -251,6 +275,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 
 *Understanding the sequence helps ensure proper resource management in your programs.*
 
+For solutions [click here](/solutions/4/p16.cpp).
+
 ---
 
 ### Problem 17: Constructor and Destructor in Multiple Inheritance - Parent1, Parent2, and Child
@@ -260,6 +286,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 - Create an object of `Child` and observe the order of constructor and destructor calls.
 
 *This will illustrate how constructors and destructors are invoked in complex inheritance hierarchies.*
+
+For solutions [click here](/solutions/4/p17.cpp).
 
 ---
 
@@ -271,6 +299,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 
 *Learning this concept is crucial for preventing resource leaks in polymorphic classes.*
 
+For solutions [click here](/solutions/4/p18.cpp).
+
 ---
 
 ### Problem 19: Dynamic Memory and Destructor Invocation - Class A and B
@@ -280,6 +310,8 @@ This section covers **Constructor and Destructor in Inheritance**, focusing on t
 - Create an object of `B` and observe the destructor calls, ensuring proper memory management.
 
 *This scenario emphasizes the need for careful resource handling in dynamically allocated objects.*
+
+For solutions [click here](/solutions/4/p19.cpp).
 
 ---
 
@@ -293,6 +325,8 @@ These problems will enhance your understanding of how constructors and destructo
 </details>
 
 ### 5. Operator Overloading in Inheritance (4 Problems)
+
+If you are new to operator overloading then pleace checkout [this](../porject10).
 
 <details>
 <summary>Click to expand</summary>
@@ -312,6 +346,8 @@ This section covers **Operator Overloading in Inheritance**, focusing on how ope
 
 *Understanding operator overloading can simplify operations on custom objects.*
 
+For solutions [click here](/solutions/5/p20.cpp).
+
 ---
 
 ### Problem 21: Overloading the `<<` Operator for Output - Base and Derived Classes
@@ -321,6 +357,8 @@ This section covers **Operator Overloading in Inheritance**, focusing on how ope
 - Overload the `<<` operator to allow outputting `Shape`, `Circle`, and `Rectangle` objects directly using `cout`.
 
 *This technique enhances the usability of your classes for output purposes.*
+
+For solutions [click here](/solutions/5/p21.cpp).
 
 ---
 
@@ -333,6 +371,8 @@ This section covers **Operator Overloading in Inheritance**, focusing on how ope
 
 *This approach provides intuitive access to elements in custom data structures.*
 
+For solutions [click here](/solutions/5/p22.cpp).
+
 ---
 
 ### Problem 23: Overloading the `=` Operator - Copy Assignment in Inheritance
@@ -342,6 +382,8 @@ This section covers **Operator Overloading in Inheritance**, focusing on how ope
 - Overload the `=` operator in `Manager` to ensure proper copying of both base and derived class attributes.
 
 *Mastering the copy assignment operator is crucial for managing resources in inherited classes.*
+
+For solutions [click here](/solutions/5/p23.cpp).
 
 ---
 
@@ -375,6 +417,8 @@ This section covers **Polymorphism & Object Slicing**, focusing on base pointers
 
 *This illustrates how polymorphism allows dynamic method binding based on object types.*
 
+For solutions [click here](/solutions/6/p24.cpp).
+
 ---
 
 ### Problem 25: Object Slicing Issue in Polymorphism - Shape and Circle
@@ -384,6 +428,8 @@ This section covers **Polymorphism & Object Slicing**, focusing on base pointers
 - Create a `Shape` object and assign it a `Circle` object to observe object slicing.
 
 *Understanding object slicing is crucial for effective use of polymorphism in C++.*
+
+For solutions [click here](/solutions/6/p25.cpp).
 
 ---
 
@@ -395,6 +441,8 @@ This section covers **Polymorphism & Object Slicing**, focusing on base pointers
 
 *This highlights the flexibility and power of polymorphic behavior in object-oriented programming.*
 
+For solutions [click here](/solutions/6/p26.cpp).
+
 ---
 
 ### Problem 27: Preventing Object Slicing - Using References or Pointers
@@ -404,6 +452,8 @@ This section covers **Polymorphism & Object Slicing**, focusing on base pointers
 - Demonstrate that using references prevents object slicing.
 
 *This showcases best practices for avoiding issues related to object slicing.*
+
+For solutions [click here](/solutions/6/p27.cpp).
 
 ---
 
@@ -437,6 +487,8 @@ This section covers **Type Casting in Inheritance**, focusing on static and dyna
 
 *This illustrates how static casting operates within inheritance hierarchies.*
 
+For solutions [click here](/solutions/7/p28.cpp).
+
 ---
 
 ### Problem 29: Dynamic Casting for Polymorphic Behavior - Base and Derived Classes
@@ -447,6 +499,8 @@ This section covers **Type Casting in Inheritance**, focusing on static and dyna
 
 *This demonstrates the importance of dynamic casting in ensuring safe downcasting in polymorphic scenarios.*
 
+For solutions [click here](/solutions/7/p29.cpp).
+
 ---
 
 ### Problem 30: Invalid Dynamic Cast - Handling Failed Casts
@@ -455,6 +509,8 @@ This section covers **Type Casting in Inheritance**, focusing on static and dyna
 - Use `dynamic_cast` and check for `nullptr` to handle failed casts gracefully.
 
 *Understanding how to manage failed dynamic casts is critical for robust code.*
+
+For solutions [click here](/solutions/7/p30.cpp).
 
 ---
 
@@ -465,6 +521,8 @@ This section covers **Type Casting in Inheritance**, focusing on static and dyna
 - Show how to correctly use static and dynamic casts in both scenarios.
 
 *This reinforces the differences between upcasting and downcasting, emphasizing safety in type conversions.*
+
+For solutions [click here](/solutions/7/p31.cpp).
 
 ---
 

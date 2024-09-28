@@ -36,12 +36,12 @@ Whether you're a beginner looking to get started or an experienced programmer ai
     * Pointers <a href="/project7">here</a>
     * Classes and Objects <a href="/project8">here</a>
 * Intermediate
-    * Inheritance and Polymorphism <a href="/">comming soon</a>
-    * Operator Overloading <a href="/">comming soon</a>
-    * Basic File Handling <a href="/">comming soon</a>
-    * Exception Handling <a href="/">comming soon</a>
+    * Inheritance and Polymorphism <a href="/project9">here</a>
+    * Exception Handling <a href="/project 10">here</a>
     * Templates <a href="/">comming soon</a>
+    * Basic File Handling <a href="/">comming soon</a>
     * Standard Template Library (STL) <a href="/">comming soon</a>
+    * Operator Overloading <a href="/">comming soon</a>
 * Advanced Topics
     * Advanced OOP Concepts <a href="/">coming soon</a>
     * Advanced STL and Algorithms <a href="/">coming soon</a>
